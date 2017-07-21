@@ -2,14 +2,8 @@
 	background: #E8D2BB;
 }
 
-.logo {
-	display: block;
-	margin-left: auto;
-    margin-right: auto;
-}
-
 body {
-	background: #E96E82;
+	background: #a3d1bb;
 }
 
 hr {
@@ -20,4 +14,21 @@ hr {
 #resultsModal img {
 	overflow: hidden;
 	width: 500px;
+}
+
+.homeTag {
+  text-align:center;
+}
+
+.homeTag2 {
+  text-align:center;
+}
+
+h2 {
+  text-align:center;
+}
+
+.survey-nav{
+   position:relative;
+   left:30em;
 }
